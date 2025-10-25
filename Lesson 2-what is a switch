@@ -1,6 +1,6 @@
 A switch is device that sends the data to the recipient (Layer 2):using the mac address.
 
-The switch is a layer 2 device and can't recognize anything that's not a switch
+The switch is a layer 2 device and can't recognize anything that's not a laayer 2.
 
 the switch uses the source mac address to populate the cam table.
 
