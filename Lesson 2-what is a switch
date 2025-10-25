@@ -13,3 +13,8 @@ cam--> content adddressful memory
 Lesson 3
 
 ARP: address reslotion protocal--> a protocol/message that the device send to the switch that's broadcasted through all the interfaces to find the owner of an ip address on the same network and translate the ip address to a mac address so tht the message or the communication can be done
+
+
+wifi5 is dumb and acts like a hub instead of a switch
+
+make sure to only use wifi6
