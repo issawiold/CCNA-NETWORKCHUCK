@@ -1,0 +1,11 @@
+A switch is device that sends the data to the recipient (Layer 2):using the mac address.
+
+the switch uses the source mac address to populate the cam table.
+
+The hub (layer 1) just repeat the electrical signal of the message over to all the interfaces.
+
+Mac table/cam table/arp table --> a table that shows the interface that each device is on with their mac address it's populated in the switch by the source mac addresses
+
+Lesson 3
+
+ARP: address reslotion protocal--> a protocol/message that the device send to the switch that's broadcasted through all the interfaces to find the owner of an ip address on the same network and translate the ip address to a mac address so tht the message or the communication can be done
