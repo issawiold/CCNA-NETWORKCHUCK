@@ -19,3 +19,8 @@ E-line= connect 2 sites to each other
 E-lan= a masive overpowered switch on the middle and each site is connected to it, the lines are completely private
 
 E-tree= main place(hub)(spine) and all other sides will have lines connected to it ,other sites are the spocks (leaves)
+
+
+VPN site to site over the internet:the cheapest solution
+
+SD-WAN:- 
