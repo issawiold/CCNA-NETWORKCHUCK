@@ -1,0 +1,21 @@
+#WAN Types :- other than internet
+
+Leasedd lines
+
+Frame relay
+
+ATM
+
+MPLS:- Multi protocol label switching--> place a label between layer 2 and layer 3 marking the traffic nd making it invisible to everyone else, this is just for network with tht label
+
+edge routers on the Lan that connect to the network to provide MPLS are called ce-router or customer edge route while the one at the edge of the wan is called pe router or provider edge router
+
+Metro ethernet: Metro E a link privte to only the company that connect two sites (p2p connection and really fast but too expensive):-
+
+Metro-e types
+
+E-line= connect 2 sites to each other
+
+E-lan= a masive overpowered switch on the middle and each site is connected to it, the lines are completely private
+
+E-tree= main place(hub)(spine) and all other sides will have lines connected to it ,other sites are the spocks (leaves)
